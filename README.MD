@@ -32,3 +32,13 @@ The player can:
 1. Clone this repository:
 ```bash
 git clone https://github.com/ryuthin94/projectC_vorplix.git
+
+2. Compile the code:
+```bash
+gcc mining_game.c -o mining_game
+
+
+3. Run the game:
+```bash
+./mining_game   # Linux / Mac
+mining_game.exe # Windows
